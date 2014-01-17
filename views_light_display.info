@@ -1,0 +1,6 @@
+name = Views light display
+description = Provide a views display which supports pager but can only be included throuh code or other modules
+dependencies[] = views
+package = custom
+core = 7.x
+files[] = plugins/views_light_display_light_display.inc
