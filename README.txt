@@ -1,3 +1,5 @@
+WARNING! This module was made when I didn't know about the Embed Display in Views. You can activate it in the Views Settings tab, and it does exactly what this module does.
+
 Views light display
 ===================
 
